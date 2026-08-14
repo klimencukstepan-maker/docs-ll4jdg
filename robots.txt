@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-2l15qa.indowin.cfd/sitemap.xml
